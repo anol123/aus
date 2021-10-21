@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>i</title>
+    <title></title>
   </head>
   <style media="screen">
   .mid {
